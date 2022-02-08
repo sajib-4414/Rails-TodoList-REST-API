@@ -25,3 +25,4 @@ Things you may want to cover:
 
 References:
 1. https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-one
+2. https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-two
