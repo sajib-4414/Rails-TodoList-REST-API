@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+References:
+1. https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-one
